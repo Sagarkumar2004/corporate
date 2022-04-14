@@ -128,7 +128,7 @@ select{
     width: auto;
     height: 700px;
     opacity: 0.9;
-    background-image: url(/image/bg1.jpg);
+    background-image: url(image/bg1.jpg);
     background-color: rgba(0, 0, 0, 0.54);
     background-blend-mode: darken;
     background-repeat: repeat-x;
@@ -187,7 +187,7 @@ select{
     display: flex;
 }
 .img-box{
-    background-image: url(/image/img2.webp);
+    background-image: url(image/img2.webp);
     width: 380px;
     height: 400px;
     background-position: center;
